@@ -8,7 +8,7 @@
 
 | 目录 | 说明 |
 |------|------|
-| [`typeless-reset-device`](./typeless-reset-device) | macOS 上重置 Typeless Device ID |
+| [`typeless-reset-device`](./typeless-reset-device) | macOS 上重置 Typeless Device ID（Agent 先读目录内 [`AGENTS.md`](./typeless-reset-device/AGENTS.md)） |
 
 ## 说明
 
