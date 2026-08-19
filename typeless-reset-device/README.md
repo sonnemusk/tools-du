@@ -2,7 +2,7 @@
 
 在任意 macOS 上重置 Typeless 本地 Device ID，让服务端把当前机器当成新设备。
 
-> **给 Agent：** 先读 [`AGENTS.md`](./AGENTS.md)。有网络时从 GitHub 临时下载脚本执行，跑完删除临时文件；禁止手搓清理，无网络则停止。
+> **给 Agent：** 先读 [`AGENTS.md`](./AGENTS.md)。有网络：从 GitHub 临时下载 → 执行 → 删除。无网络：请用户把脚本放到 `~/Tools/typeless-reset-device/` → 执行 → 删除。禁止手搓清理。
 
 ## 用法
 
